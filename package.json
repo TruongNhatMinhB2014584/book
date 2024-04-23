@@ -1,0 +1,27 @@
+{
+  "name": "be-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "script": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruongNhatMinhB2014584/book.git"
+  },
+  "author": "Truong Nhat Minh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TruongNhatMinhB2014584/book/issues"
+  },
+  "homepage": "https://github.com/TruongNhatMinhB2014584/book#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
